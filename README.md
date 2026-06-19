@@ -1,6 +1,8 @@
 # pendant
 Pendant YSWS Project
 
+See my live updating OnShape file [here](https://cad.onshape.com/documents/7d3d96429e232fb80c33cb80/w/6ffc8b690529a53a1dcdfd02/e/fab4471fd6cda253a4fcb846?resourceType=resourceuserowner&nodeId=65e10417edd4a712391371d1&renderMode=0&uiState=6a358ea1a6672b7ea19c2e2c)!
+
 ## BOM
 | Item | Price per Unit | No. of Units | Total Price | Link |
 |------|----------------|----------|-------------|------|
