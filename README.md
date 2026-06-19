@@ -11,4 +11,4 @@ Pendant YSWS Project
 | 3.3kΩ Resistor | $0.55 for 50 | 1 | $0.55 | [https://www.lcsc.com/product-detail/C119335.html](https://www.lcsc.com/product-detail/C119335.html) |
 | 2.2kΩ Resistor | $0.53 for 50 | 1 | $0.53 | [https://www.lcsc.com/product-detail/C119186.html](https://www.lcsc.com/product-detail/C119186.html) |
 
-### Total: $8.09 + PCB Cost
+### Total (USD): $8.09 + PCB Cost
